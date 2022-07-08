@@ -55,3 +55,12 @@ https://ecitizen.jp/Population/CityAging2045
 但是供给逐渐堆积，肯定也是说明消化不良了。倒推可以得出结论。
 世事无绝对，先把数据跑起来再说吧。
 
+
+東京都の市区町村コード一覧
+
+https://ecitizen.jp/Sac/13
+
+
+Linked Open Data を使って市区町村コード表を作ってみ
+
+たhttps://ecitizen.jp/Sac
